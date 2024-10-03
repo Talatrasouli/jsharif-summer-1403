@@ -1,6 +1,4 @@
 # Backend course examples
 ##python
-- [ ] input-output
-- [x] modulo
-- [x] majic-methods
-- [x] lists
+- [ ] input-output.py
+- [x] modulo.py
